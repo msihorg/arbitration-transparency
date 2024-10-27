@@ -1,5 +1,5 @@
 # Arbitration Transparency
-A program of Make Sure It Happens Inc, a Maryland non-profit and 501(c)(3) EIN 85-3536160 | www.msih.org | ithappens@msih.org | 717-674-4674
+A program, to provide educational assistance about Consumer Arbitration in America, of Make Sure It Happens Inc, a Maryland non-profit and 501(c)(3) EIN 85-3536160 | www.msih.org | ithappens@msih.org | 717-674-4674
 
 # Purpose
 - A Drupal project to provide information about consumer arbitration: rules, process, players, regulations, laws, court cases, and history. 
