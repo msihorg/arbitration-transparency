@@ -28,7 +28,36 @@ A program, to provide educational assistance about Consumer Arbitration in Ameri
 
 
 ## Use Cases
+- password-less login (use email or sms to validate)
+- Create roles for Admin
 
+### Content management
+  - menu management
+  - add articles
+  - tags and categories
+  - schedule content
+  - create page layouts
+
+### Claims
+    - user provides company and location
+    - description of the claim
+    - support documentation
+    - desired outcome
+    - Arbitration Rules
+    - Name of Arbitor
+    - Date of Hearing
+    - Date of Outcome
+    - Outcome (if public then full if private then satisfied or unsatisfied)
+   
+# Terms
+      - user enters name of company, then search local database, if not found then find site and scrape terms
+      - user enters url to company or product web site, then search local database, if not found then scrape terms
+      - site if more than 90 days then scrape
+      - AI reviews and output json document preset variables (required, pre-arbitration, ....)
+      - search results ad filterable should show a table (class action waiver, cost, ...)
+     
+### Advocate
+      - user request email and letter sent to company request arbitration be made public
 
 ## Project Plan
 
