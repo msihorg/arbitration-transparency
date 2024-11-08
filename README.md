@@ -1,9 +1,9 @@
 # Arbitration Transparency https://arbitrationtransparency.org/
 A program, to provide educational assistance about Consumer Arbitration in America, of Make Sure It Happens Inc, a Maryland non-profit and 501(c)(3) EIN 85-3536160 | www.msih.org | ithappens@msih.org | 717-674-4674
 
-Use github [*Issues*](../../issues)  to track project and operational: Bugs, Features, and Tasks
+Use GitHub [*Issues*](../../issues)  to track project and operational: Bugs, Features, and Tasks
 
-Use github [*Discussions*](../../discussions/categories/general) to discuss project and operational tops: Design, Marketing, Strategy, and Technology
+Use GitHub [*Discussions*](../../discussions/categories/general) to discuss project and operational tops: Design, Marketing, Strategy, and Technology
 
 # Purpose
 - A Drupal project to provide information about consumer arbitration: rules, process, players, regulations, laws, court cases, and history. 
@@ -12,12 +12,12 @@ Use github [*Discussions*](../../discussions/categories/general) to discuss proj
 - A searchable database of outcomes: allow users to share their experience with the arbitration process.
 - Advocate for making consumer arbitration transparent: Send emails and letters to businesses and politicians.
 - A searchable database of entities that have agreed to make consumer arbitration public.
-- Setup fund to pay for legal bills when people break DNA.
-- Help people remove DNA from settlement.
+- Set up fund to pay for legal bills when people break DNA.
+- Help people remove DNA from settlements.
 - Help people end arbitration agreements.
 
 ## Technology
-- Frontend: Drpaul
+- Frontend: Drupal
 - CCS Framework: tailwind
 - Backend: MySQL
 - Map: Google (autocomplete)
